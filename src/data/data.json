@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "president" :[
+            {
+                "name" :  "Abid Hasan Rony",
+                "image" : "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/418514631_220484687786643_2868765684359678781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFgBZMccP4DC6xu_o6wI9uUW6kivm6vjNJbqSK-bq-M0uufRFmKL30EA9KCbPMzN7RlyZjgcaybaridEaozOAmZ&_nc_ohc=HVm34FiVGLAAX9e-rg9&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBT-j24sFE-FHpVAzogbb6zz0W5NMZ5FF7hAedT_t7HHg&oe=65B4E93E",
+                "tag" : "President"
+            }
+        ],
+        "Vice-president": [
+            {
+              "first": "Abu Nakib Siddique",
+              "second": "Asjhee Mansib Chowdhury",
+              "third": "Siam Ur Rahman"
+            }],
+        "general-secretary" : "Abu Bakkar Siddique",
+        "join-secretary": [
+            {
+              "first": "Mahmudun Nobi",
+              "second": "Irin Akter",
+              "third": "Mosharrof Hossain Sarker"
+            }],
+        "organiging-secretary":"Istiak Hossain Shaon",
+        "join-organiging-secretary": [
+            {
+              "first": "JM Jakaria",
+              "second": "Mashrafi Bin Moin",
+              "third": "Sharmin Sultan Mim"
+            }],
+        "office-secretary" : "Ishak Sheikh",
+        "joint-office-secretary" : "Khaled Saifullah",
+        "science-tech-re-affairs-secretary" : "Md Ariful Islam",
+        "joint-science-tech-re-affairs-secretary" : [
+            {
+                "first" : "Tanzila Islam",
+                "second" : "Esha Md Saifullah"
+            }
+        ],
+        "treasurer" : "Aslam Mahmud Siam",
+        "deputy-treaser" : "Mehedi Hasan Sajid",
+        "press-publicity" : "Sabbir Ahmed",
+        "joint-press-publicity" : "Asif Talukder" 
+    },
+    {
+        "id": 2,
+        "president" :[
+            {
+                "name" :  "Abid  Rony",
+                "image" : "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/418514631_220484687786643_2868765684359678781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFgBZMccP4DC6xu_o6wI9uUW6kivm6vjNJbqSK-bq-M0uufRFmKL30EA9KCbPMzN7RlyZjgcaybaridEaozOAmZ&_nc_ohc=HVm34FiVGLAAX9e-rg9&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBT-j24sFE-FHpVAzogbb6zz0W5NMZ5FF7hAedT_t7HHg&oe=65B4E93E",
+                "tag" : "President"
+            }
+        ],
+        "Vice-president": [
+            {
+              "first": "Abu Nakib Siddique",
+              "second": "Asjhee Mansib Chowdhury",
+              "third": "Siam Ur Rahman"
+            }],
+        "general-secretary" : "Abu Bakkar Siddique",
+        "join-secretary": [
+            {
+              "first": "Mahmudun Nobi",
+              "second": "Irin Akter",
+              "third": "Mosharrof Hossain Sarker"
+            }],
+        "organiging-secretary":"Istiak Hossain Shaon",
+        "join-organiging-secretary": [
+            {
+              "first": "JM Jakaria",
+              "second": "Mashrafi Bin Moin",
+              "third": "Sharmin Sultan Mim"
+            }],
+        "office-secretary" : "Ishak Sheikh",
+        "joint-office-secretary" : "Khaled Saifullah",
+        "science-tech-re-affairs-secretary" : "Md Ariful Islam",
+        "joint-science-tech-re-affairs-secretary" : [
+            {
+                "first" : "Tanzila Islam",
+                "second" : "Esha Md Saifullah"
+            }
+        ],
+        "treasurer" : "Aslam Mahmud Siam",
+        "deputy-treaser" : "Mehedi Hasan Sajid",
+        "press-publicity" : "Sabbir Ahmed",
+        "joint-press-publicity" : "Asif Talukder" 
+    },
+    {
+        "id": 3,
+        "president" :[
+            {
+                "name" :  "Rony",
+                "image" : "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/418514631_220484687786643_2868765684359678781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeFgBZMccP4DC6xu_o6wI9uUW6kivm6vjNJbqSK-bq-M0uufRFmKL30EA9KCbPMzN7RlyZjgcaybaridEaozOAmZ&_nc_ohc=HVm34FiVGLAAX9e-rg9&_nc_ht=scontent.fdac138-1.fna&oh=00_AfBT-j24sFE-FHpVAzogbb6zz0W5NMZ5FF7hAedT_t7HHg&oe=65B4E93E",
+                "tag" : "President"
+            }
+        ],
+        "Vice-president": [
+            {
+              "first": "Abu Nakib Siddique",
+              "second": "Asjhee Mansib Chowdhury",
+              "third": "Siam Ur Rahman"
+            }],
+        "general-secretary" : "Abu Bakkar Siddique",
+        "join-secretary": [
+            {
+              "first": "Mahmudun Nobi",
+              "second": "Irin Akter",
+              "third": "Mosharrof Hossain Sarker"
+            }],
+        "organiging-secretary":"Istiak Hossain Shaon",
+        "join-organiging-secretary": [
+            {
+              "first": "JM Jakaria",
+              "second": "Mashrafi Bin Moin",
+              "third": "Sharmin Sultan Mim"
+            }],
+        "office-secretary" : "Ishak Sheikh",
+        "joint-office-secretary" : "Khaled Saifullah",
+        "science-tech-re-affairs-secretary" : "Md Ariful Islam",
+        "joint-science-tech-re-affairs-secretary" : [
+            {
+                "first" : "Tanzila Islam",
+                "second" : "Esha Md Saifullah"
+            }
+        ],
+        "treasurer" : "Aslam Mahmud Siam",
+        "deputy-treaser" : "Mehedi Hasan Sajid",
+        "press-publicity" : "Sabbir Ahmed",
+        "joint-press-publicity" : "Asif Talukder" 
+    }
+]
